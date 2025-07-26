@@ -1,0 +1,4 @@
+Diya,23CS101,95
+Aio,23CS102,91
+Fredrina,23CS104,93
+Sanmitha,23CS105,92
